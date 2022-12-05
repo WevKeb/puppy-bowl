@@ -1,0 +1,43 @@
+
+
+{
+    "success": true,
+    "error": null,
+    "data": {
+      "players": [
+        {
+          "id": 9806,
+          "name": "Lamont",
+          "breed": "Great Dane/Lab",
+          "status": "bench",
+          "imageUrl": "https://animalso.com/wp-content/uploads/2019/02/Great-Dane-Lab-mix-2.jpg",
+          "createdAt": "2022-12-02T20:37:10.507Z",
+          "updatedAt": "2022-12-02T20:37:10.507Z",
+          "teamId": null,
+          "cohortId": 283
+        },
+        {
+            "id": 9807,
+            "name": "Lamont",
+            "breed": "Great Dane/Lab",
+            "status": "bench",
+            "imageUrl": "https://animalso.com/wp-content/uploads/2019/02/Great-Dane-Lab-mix-2.jpg",
+            "createdAt": "2022-12-02T20:37:10.507Z",
+            "updatedAt": "2022-12-02T20:37:10.507Z",
+            "teamId": null,
+            "cohortId": 283
+          },
+          {
+            "id": 9808,
+            "name": "Lamont",
+            "breed": "Great Dane/Lab",
+            "status": "bench",
+            "imageUrl": "https://animalso.com/wp-content/uploads/2019/02/Great-Dane-Lab-mix-2.jpg",
+            "createdAt": "2022-12-02T20:37:10.507Z",
+            "updatedAt": "2022-12-02T20:37:10.507Z",
+            "teamId": null,
+            "cohortId": 283
+          }
+      ]
+    }
+  }
